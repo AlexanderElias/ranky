@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const Pck = require('../package');
 const Ranky = require('../index');
 const Cmd = require('commander');
