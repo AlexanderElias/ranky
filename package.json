@@ -1,0 +1,33 @@
+{
+  "name": "ranky",
+  "version": "1.0.0",
+  "description": "Ranky | A website search engine ranking CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Elias",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "commander": "^2.11.0"
+  },
+  "bin": {
+    "ranky": "index.js"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderElias/ranky.git"
+  },
+  "keywords": [
+    "search",
+    "engine",
+    "rank",
+    "tool",
+    "cli"
+  ],
+  "bugs": {
+    "url": "https://github.com/AlexanderElias/ranky/issues"
+  },
+  "homepage": "https://github.com/AlexanderElias/ranky#readme"
+}
